@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+.nombre {
+  font-size: 30px;
+  color: white;
+  text-align: left;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -32,8 +38,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
